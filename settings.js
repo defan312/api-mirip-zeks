@@ -1,7 +1,7 @@
 const fs = require('fs')
 
-global.creator = 'Zeeoneofc' 
-global.apikey = ["Zeeoneofc", "Alphabot", "Alpha"]
+global.creator = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×' 
+global.apikey = ["ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×", "ᴬᴺᴵᴬ ᴮᴼᵀ", "ᴬᴺᴵᴬ ᴮᴼᵀ"]
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
